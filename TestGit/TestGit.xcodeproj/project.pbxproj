@@ -16,6 +16,7 @@
 		3D02E4321E63D71400F37243 /* TestGitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D02E4311E63D71400F37243 /* TestGitTests.m */; };
 		3D02E43D1E63D71400F37243 /* TestGitUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D02E43C1E63D71400F37243 /* TestGitUITests.m */; };
 		3D5FF8341E6505CA0061F6FA /* Test1.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D5FF8331E6505CA0061F6FA /* Test1.m */; };
+		3D5FF8371E6507DA0061F6FA /* Test2.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D5FF8361E6507DA0061F6FA /* Test2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		3D02E43E1E63D71400F37243 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3D5FF8321E6505CA0061F6FA /* Test1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test1.h; sourceTree = "<group>"; };
 		3D5FF8331E6505CA0061F6FA /* Test1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test1.m; sourceTree = "<group>"; };
+		3D5FF8351E6507DA0061F6FA /* Test2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test2.h; sourceTree = "<group>"; };
+		3D5FF8361E6507DA0061F6FA /* Test2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				3D02E41E1E63D71400F37243 /* ViewController.m */,
 				3D5FF8321E6505CA0061F6FA /* Test1.h */,
 				3D5FF8331E6505CA0061F6FA /* Test1.m */,
+				3D5FF8351E6507DA0061F6FA /* Test2.h */,
+				3D5FF8361E6507DA0061F6FA /* Test2.m */,
 				3D02E4201E63D71400F37243 /* Main.storyboard */,
 				3D02E4231E63D71400F37243 /* Assets.xcassets */,
 				3D02E4251E63D71400F37243 /* LaunchScreen.storyboard */,
@@ -281,6 +286,7 @@
 				3D02E41F1E63D71400F37243 /* ViewController.m in Sources */,
 				3D02E41C1E63D71400F37243 /* AppDelegate.m in Sources */,
 				3D02E4191E63D71400F37243 /* main.m in Sources */,
+				3D5FF8371E6507DA0061F6FA /* Test2.m in Sources */,
 				3D5FF8341E6505CA0061F6FA /* Test1.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
