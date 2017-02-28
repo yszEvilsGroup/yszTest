@@ -18,3 +18,4 @@
 哈哈哈，我这里是origin
 
 \n为什么我master不能换行
+为什么我origin不能换行\n
